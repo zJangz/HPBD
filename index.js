@@ -1,4 +1,4 @@
-const contentLetterSrart_actived = "❤❤❤ HAPPY BIRTHDAY TO HƯƠNG LAN ❤❤❤" //Lời mở đầu cho bức thư
+const contentLetterSrart_actived = "❤❤ HAPPY BIRTHDAY TO HƯƠNG LAN ❤❤" //Lời mở đầu cho bức thư
 const mainContentLetter = "Mỗi người luôn có những thời điểm đánh dấu những phút giây đặc biệt, với tôi ngày bạn ra đời cũng là một thời điểm đặc biệt như vậy đấy ^^ . Chúc bạn sinh nhật nhiều niềm vui! Cầu mong hạnh phúc sẽ làm cuộc đời bạn luôn tràn đầy sự ngọt ngào. Iu bạn! ^.^" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
