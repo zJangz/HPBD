@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "❤❤ HAPPY BIRTHDAY TO THIÊN KIM ❤❤" //Lời mở đầu cho bức thư
-const mainContentLetter = "Chúc em gái có những phút giây tuyệt vời bên gia đình và bạn bè trong ngày sinh nhật của mình nhé, chúc em sẽ có thêm niềm vui trong cuộc sống, là một cô bé yêu đời nhí nhảnh nhé." //Nội dung của bức thư
+const contentLetterSrart_actived = "❤❤ HAPPY BIRTHDAY TO THIÊN TRANG ❤❤" //Lời mở đầu cho bức thư
+const mainContentLetter = "Với cái tuổi thật đẹp này chúc em có một sức khỏe tươi mới, thành công luôn tới, nhan sắc thì ai nhìn cũng phải chới với. Happy birthday to you." //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư
